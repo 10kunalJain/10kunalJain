@@ -1,19 +1,28 @@
 ## Hi there 👋
 ## Kunal Jain - Data Scientist
-📞 Contact: 9680466361
-📧 Email: 10.kunaljain@gmail.com
-🌍 Location: Jodhpur, Rajasthan
-👤 GitHub: 10kunalJain
-🔗 LinkedIn: Kunal Jain
 
-📜 Professional Summary
+#📞 Contact: 9680466361
+
+#📧 Email: 10.kunaljain@gmail.com
+
+#🌍 Location: Jodhpur, Rajasthan
+
+#👤 GitHub: 10kunalJain
+
+#🔗 LinkedIn: Kunal Jain
+
+#📜 Professional Summary
+
 I am an innovative and analytical Data Scientist skilled in Python, SQL, and Power BI. I specialize in machine learning, statistical analysis, and data visualization. I excel in utilizing Generative AI for problem-solving and adapting to new technologies. My passion is driving data-driven decisions and business innovation through insightful analysis and impactful solutions.
 
-💻 Technical Skills
+#💻 Technical Skills
+
 Programming & Tools: Python, Pandas, SQL, Power BI, MongoDB, Excel
 Libraries & Frameworks: Matplotlib, Seaborn, Streamlit
 Web Scraping: Selenium, BeautifulSoup
-🛠️ Tech Stack
+
+#🛠️ Tech Stack
+
 Languages: Python, SQL
 Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
 Data Visualization: Power BI, Excel, Streamlit
