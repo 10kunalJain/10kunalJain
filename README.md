@@ -48,7 +48,7 @@ IBM Data Engineering - Coursera
 ### Credit Card Transaction Analysis
 Live Demo: [Credit Card Dashboard](https://credit-card-analysis-qgusy8lihrhygfamb5f2s8.streamlit.app/)
 
-GitHub Repo: 
+GitHub Repo: https://github.com/10kunalJain/Credit-Card-Analysis
 
 Cleaned and processed CSV files, handling missing values and duplicates.
 
@@ -57,7 +57,8 @@ Used Matplotlib and Seaborn to visualize trends.
 Built an interactive dashboard with Streamlit and deployed it on Streamlit Cloud for public access.
 
 ### Food Delivery Analysis
-GitHub Repo: 
+
+GitHub Repo: https://github.com/10kunalJain/Food-Delivery-Analysis
 
 Scraped restaurant data from Zomato using Python, Selenium, and BeautifulSoup.
 
