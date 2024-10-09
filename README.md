@@ -1,5 +1,3 @@
-# Kunal Jain - Data Scientist
-
 📞 **Contact**: 9680466361  
 📧 **Email**: 10.kunaljain@gmail.com  
 🌍 **Location**: Jodhpur, Rajasthan  
