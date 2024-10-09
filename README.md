@@ -46,16 +46,23 @@ IBM Data Engineering - Coursera
 
 📊 Projects
 # Credit Card Transaction Analysis
-Live Demo: Credit Card Dashboard
-GitHub Repo: Repository Link
+Live Demo: [Credit Card Dashboard](https://credit-card-analysis-qgusy8lihrhygfamb5f2s8.streamlit.app/)
+
+GitHub Repo: 
+
 Cleaned and processed CSV files, handling missing values and duplicates.
+
 Used Matplotlib and Seaborn to visualize trends.
+
 Built an interactive dashboard with Streamlit and deployed it on Streamlit Cloud for public access.
 
 # Food Delivery Analysis
-GitHub Repo: Repository Link
+GitHub Repo: 
+
 Scraped restaurant data from Zomato using Python, Selenium, and BeautifulSoup.
+
 Performed EDA using Matplotlib and Seaborn to uncover data insights.
+
 Created dashboards using Power BI and Excel for visualizing trends.
 <!--
 **10kunalJain/10kunalJain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
