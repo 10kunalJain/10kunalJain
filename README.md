@@ -7,9 +7,7 @@
 
 🌍 Location: Jodhpur, Rajasthan
 
-👤 GitHub: 10kunalJain
-
-🔗 LinkedIn: Kunal Jain
+🔗 LinkedIn: [Kunal Jain](https://www.linkedin.com/in/kunal-jain-27b4b0209)
 
 ### 📜 Professional Summary
 
