@@ -11,17 +11,17 @@
 
 🔗 LinkedIn: Kunal Jain
 
-📜 Professional Summary
+### 📜 Professional Summary
 
 I am an innovative and analytical Data Scientist skilled in Python, SQL, and Power BI. I specialize in machine learning, statistical analysis, and data visualization. I excel in utilizing Generative AI for problem-solving and adapting to new technologies. My passion is driving data-driven decisions and business innovation through insightful analysis and impactful solutions.
 
-💻 Technical Skills
+### 💻 Technical Skills
 
 Programming & Tools: Python, Pandas, SQL, Power BI, MongoDB, Excel
 Libraries & Frameworks: Matplotlib, Seaborn, Streamlit
 Web Scraping: Selenium, BeautifulSoup
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 Languages: Python, SQL
 Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
@@ -31,21 +31,21 @@ Web Scraping: Selenium, BeautifulSoup
 Version Control: Git, GitHub
 Other Tools: Jupyter Notebooks, VS Code
 
-🛠️ Experience
+### 🛠️ Experience
 
 Full Stack Developer | Tongadive (July 2023 - March 2024)
 
 Led a comprehensive overhaul of the codebase, significantly improving system responsiveness and resource efficiency.
 Enhanced Elasticsearch backup processes, improving backup efficiency by 50% through the integration of new functionalities and multi-tenancy frameworks.
 
-🏆 Achievements
+### 🏆 Achievements
 Inter University Volleyball Tournament - Represented MBM University
 
-📜 Certifications
+### 📜 Certifications
 IBM Data Engineering - Coursera
 
-📊 Projects
-# Credit Card Transaction Analysis
+### 📊 Projects
+### Credit Card Transaction Analysis
 Live Demo: [Credit Card Dashboard](https://credit-card-analysis-qgusy8lihrhygfamb5f2s8.streamlit.app/)
 
 GitHub Repo: 
@@ -56,7 +56,7 @@ Used Matplotlib and Seaborn to visualize trends.
 
 Built an interactive dashboard with Streamlit and deployed it on Streamlit Cloud for public access.
 
-# Food Delivery Analysis
+### Food Delivery Analysis
 GitHub Repo: 
 
 Scraped restaurant data from Zomato using Python, Selenium, and BeautifulSoup.
