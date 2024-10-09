@@ -1,27 +1,27 @@
 ## Hi there 👋
 ## Kunal Jain - Data Scientist
 
-#📞 Contact: 9680466361
+📞 Contact: 9680466361
 
-#📧 Email: 10.kunaljain@gmail.com
+📧 Email: 10.kunaljain@gmail.com
 
-#🌍 Location: Jodhpur, Rajasthan
+🌍 Location: Jodhpur, Rajasthan
 
-#👤 GitHub: 10kunalJain
+👤 GitHub: 10kunalJain
 
-#🔗 LinkedIn: Kunal Jain
+🔗 LinkedIn: Kunal Jain
 
-#📜 Professional Summary
+📜 Professional Summary
 
 I am an innovative and analytical Data Scientist skilled in Python, SQL, and Power BI. I specialize in machine learning, statistical analysis, and data visualization. I excel in utilizing Generative AI for problem-solving and adapting to new technologies. My passion is driving data-driven decisions and business innovation through insightful analysis and impactful solutions.
 
-#💻 Technical Skills
+💻 Technical Skills
 
 Programming & Tools: Python, Pandas, SQL, Power BI, MongoDB, Excel
 Libraries & Frameworks: Matplotlib, Seaborn, Streamlit
 Web Scraping: Selenium, BeautifulSoup
 
-#🛠️ Tech Stack
+🛠️ Tech Stack
 
 Languages: Python, SQL
 Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
@@ -30,22 +30,29 @@ Databases: MongoDB, SQL
 Web Scraping: Selenium, BeautifulSoup
 Version Control: Git, GitHub
 Other Tools: Jupyter Notebooks, VS Code
+
 🛠️ Experience
+
 Full Stack Developer | Tongadive (July 2023 - March 2024)
+
 Led a comprehensive overhaul of the codebase, significantly improving system responsiveness and resource efficiency.
 Enhanced Elasticsearch backup processes, improving backup efficiency by 50% through the integration of new functionalities and multi-tenancy frameworks.
+
 🏆 Achievements
 Inter University Volleyball Tournament - Represented MBM University
+
 📜 Certifications
 IBM Data Engineering - Coursera
+
 📊 Projects
-Credit Card Transaction Analysis
+# Credit Card Transaction Analysis
 Live Demo: Credit Card Dashboard
 GitHub Repo: Repository Link
 Cleaned and processed CSV files, handling missing values and duplicates.
 Used Matplotlib and Seaborn to visualize trends.
 Built an interactive dashboard with Streamlit and deployed it on Streamlit Cloud for public access.
-Food Delivery Analysis
+
+# Food Delivery Analysis
 GitHub Repo: Repository Link
 Scraped restaurant data from Zomato using Python, Selenium, and BeautifulSoup.
 Performed EDA using Matplotlib and Seaborn to uncover data insights.
