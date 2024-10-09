@@ -36,7 +36,7 @@ An innovative and analytical Data Scientist with expertise in Python, SQL, and P
 ## Projects
 
 ### Credit Card Transaction Analysis  
-[Live Demo][(https://credit-card-analysis-qgusy8lihrhygfamb5f2s8.streamlit.app/)] | [GitHub Repo](https://github.com/10kunalJain/Credit-Card-Analysis)
+[Live Demo](https://credit-card-analysis-qgusy8lihrhygfamb5f2s8.streamlit.app/) | [GitHub Repo](https://github.com/10kunalJain/Credit-Card-Analysis)
 
 - Cleaned and processed CSV files, handling missing values and duplicates.
 - Utilized Matplotlib and Seaborn to visualize trends and patterns.
