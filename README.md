@@ -1,21 +1,24 @@
-## Professional Summary
-An innovative and analytical Data Scientist with expertise in Python, SQL, and Power BI. Specializing in machine learning, statistical analysis, and data visualization, Kunal excels at leveraging Generative AI to solve complex problems and adapt to emerging technologies. He is passionate about driving data-driven decision-making and fostering business innovation through insightful analysis and impactful solutions.
+# Hi, I'm Kunal Jain
 
-📞 **Contact**: 9680466361  
-📧 **Email**: 10.kunaljain@gmail.com  
-🌍 **Location**: Jodhpur, Rajasthan  
-🔗 **LinkedIn**: [Kunal Jain](https://www.linkedin.com/in/kunal-jain-27b4b0209)  
+**Data Scientist & ML Engineer** building production-oriented AI systems — not just models, but end-to-end pipelines with robustness testing, uncertainty estimation, and deployment.
 
-## Technical Skills
-- **Programming & Tools**: Python, Pandas, SQL, Power BI, MongoDB, Excel  
-- **Libraries & Frameworks**: Matplotlib, Seaborn, Streamlit  
-- **Web Scraping**: Selenium, BeautifulSoup  
+## Featured Project
+
+### [Real-Time Driver Drowsiness Detection](https://github.com/10kunalJain/drowsiness-detection) | [Live Demo](https://drowsiness-detection-fwufwjunwv6eupgxfvcw3w.streamlit.app/)
+End-to-end ML system: ResNet50V2 + LSTM temporal modeling + uncertainty estimation + robustness testing across 36 conditions. **0.988 AUC**, 96.3% sequence accuracy, deployed on Streamlit Cloud.
+
+## What I Build
+- **Computer Vision** — object detection, image classification, real-time inference pipelines
+- **ML Systems** — training pipelines with data quality analysis, benchmarking, and error-driven improvement loops
+- **Production ML** — APIs, TFLite edge deployment, experiment tracking, uncertainty-aware predictions
+- **Data Science** — statistical analysis, visualization, data-driven decision making
 
 ## Tech Stack
-- **Languages**: Python, SQL  
-- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn  
-- **Data Visualization**: Power BI, Excel, Streamlit  
-- **Databases**: MongoDB, SQL  
-- **Web Scraping**: Selenium, BeautifulSoup  
-- **Version Control**: Git, GitHub  
-- **Other Tools**: Jupyter Notebooks, VS Code  
+**ML/DL:** TensorFlow, Keras, OpenCV, scikit-learn, NumPy, Pandas
+
+**Tools:** Python, SQL, Streamlit, Power BI, Git, Docker
+
+**Techniques:** Transfer Learning, LSTM, Grad-CAM, MC Dropout, Test-Time Augmentation, CLAHE, Robustness Testing
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/kunal-jain-27b4b0209) | 10.kunaljain@gmail.com
